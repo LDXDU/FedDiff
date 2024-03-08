@@ -1,6 +1,7 @@
 # FedDiff_Under review by TCSVT
 This paper is currently under review by IEEE TCSVT, and the diffusion framework of the FedDiff algorithm part will be disclosed.
 Implementation of the vanilla federated learning paper : https://arxiv.org/abs/2401.02433
+
 Experiments are produced on：Houston2013, Trento, The MUUFL dataset (both non-IID)).
 ![framework](https://github.com/LDXDU/FedDiff/assets/68802236/df30d339-c702-4c37-b647-538f9f5fa6d5)
 
